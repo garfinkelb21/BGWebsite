@@ -1,0 +1,45 @@
+body{
+    background-color: #a7dbfa;
+    margin: 0;
+}
+#top {
+    background-color: #a7dbfa;
+}
+h1{
+    text-align: center;
+    color: #0f2b3d;
+    margin-top: 0;
+    padding: 1rem;
+    font-size: 3rem;
+}
+h2{
+    color:#215063;
+    padding: 1rem;
+    font-size: 30px;
+    margin: 20px; 
+}
+
+h3{
+    color:#215063;
+    font-size: 30px;
+    padding:1rem;
+    margin: 20px;
+}
+p{
+   display: block;
+   margin: 20px; 
+   padding: 1rem;
+   color: #5e5e5e
+}
+a{
+    color: #1587b4;
+}
+.linkedin {
+    border-left: 6px solid #1587b4;
+}
+.pic {
+    border: 6px solid #000000;
+    display: block;
+    margin: auto;
+
+}
